@@ -43,7 +43,8 @@ public class Main_bj_2630_색종이만들기 {
 			}
 		}
 		
-		System.out.println(Arrays.toString(ans));
+		System.out.println(ans[0]);
+		System.out.println(ans[1]);
 		
 	}
 	
